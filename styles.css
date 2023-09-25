@@ -1,0 +1,42 @@
+body{
+  background-image: url('https://www.classtools.net/dice/table.jpg');
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+h1 {
+  margin: 30px;
+  font-family: 'Uncial Antiqua', cursive;
+  text-shadow: 6px 0 #232931;
+  font-size: 6rem;
+  color: #e6dede;
+}
+
+p {
+  font-size: 2rem;
+  color: #acdf12;
+  font-family: 'Uncial Antiqua',  cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  text-align: center;
+  background-color: #ffffff; 
+}
+.diceimagica{
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}
